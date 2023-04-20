@@ -1,2 +1,3 @@
 # Zira-
 zira is the A.I speech recognition model withci talk with you and convert sppech into text made by Team - Hyper-X
+Looking for a reliable speech-to-text bot for your website? Zira has got you covered! Our GitHub repository features HTML, CSS, and JavaScript code for building a high-performing speech recognition bot that seamlessly converts speech to text. Our customizable templates and easy-to-follow instructions make it easy for you to create an SEO-optimized site that ranks high in search results. Get started with Zira's speech-to-text bot today! #SpeechToText #Bot #Zira #HTML #CSS #JavaScript #GitHub #SEO #Optimization and you can also connect me on linked in profile - https://www.linkedin.com/in/aryan-jain-124717272/
