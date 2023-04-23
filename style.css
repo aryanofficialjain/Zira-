@@ -23,6 +23,7 @@ nav ul{
 margin-left: 30px;
 	list-style-type: none;
 /*	align-items: center;*/
+transition: all 1s ease;
 
 
 }
@@ -57,7 +58,6 @@ header{
 	align-items: center;
 	padding: 30px;
 	text-align: center;
-
 	flex-direction: column;
 	background-image: linear-gradient(120deg,black,dodgerblue);
 /*background-image: url('ai.gif');*/
@@ -198,11 +198,11 @@ footer{
 #menu{
 	position: absolute;
 	z-index: 2;
-	top: 10px;
+	top: 20px;
 	color: white;
 	display: none;
 	right: 30px;
-	font-size: 25px;
+	font-size: 35px;
 }
 
 
