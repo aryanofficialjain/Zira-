@@ -52,6 +52,26 @@ nav ul li a:hover{
 
 }
 
+
+#drop{
+	position: absolute;
+	top: 7vh;
+	background-color: dodgerblue;
+	padding: 5px 20px;
+	display: none;
+
+}
+
+#drop li{
+	display: block;
+}
+
+#more:hover ~ #drop ul{
+	display: block;
+}
+
+
+
 header{
 	display: flex;
 	justify-content: center;
@@ -120,7 +140,8 @@ header p{
 
 .about::before{
 	content: "";
-	background: url('raone.webp') no-repeat center center/cover;
+	background: url('raone.webp') no-repeat;
+	background-size: contain;
 	position: absolute;
 	background-size: 100% 100vh;
 	margin: 0;
